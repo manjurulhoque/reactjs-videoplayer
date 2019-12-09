@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1456f0c2b99adc0d3daee4d0101daf13",
+    "revision": "44a1f2e8a34190ad400376ec8b466839",
     "url": "/reactjs-videoplayer/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactjs-videoplayer/static/js/2.c732ad9d.chunk.js.LICENSE"
   },
   {
-    "revision": "8b3b084abf6b64eaba87",
-    "url": "/reactjs-videoplayer/static/js/main.f00c27b1.chunk.js"
+    "revision": "d140c5b7472ce0168370",
+    "url": "/reactjs-videoplayer/static/js/main.887d1243.chunk.js"
   },
   {
     "revision": "63dd97fccd472875f428",
