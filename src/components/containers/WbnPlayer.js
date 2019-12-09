@@ -65,7 +65,7 @@ const WbnPlayer = props => {
         props.history,
         props.location.autoplay,
         props.match.params.activeVideo,
-        state.activeVideo.id,
+        state.activeVideo,
         state.videos
     ]);
 
