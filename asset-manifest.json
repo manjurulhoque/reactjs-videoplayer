@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/react-videoplayer/static/js/main.c4668bfa.chunk.js",
-    "main.js.map": "/react-videoplayer/static/js/main.c4668bfa.chunk.js.map",
-    "runtime-main.js": "/react-videoplayer/static/js/runtime-main.c7657c4f.js",
-    "runtime-main.js.map": "/react-videoplayer/static/js/runtime-main.c7657c4f.js.map",
-    "static/js/2.8d2cc2bb.chunk.js": "/react-videoplayer/static/js/2.8d2cc2bb.chunk.js",
-    "static/js/2.8d2cc2bb.chunk.js.map": "/react-videoplayer/static/js/2.8d2cc2bb.chunk.js.map",
-    "index.html": "/react-videoplayer/index.html",
-    "precache-manifest.c12d0f6a00bd330b8d24e0dd6f0a17bd.js": "/react-videoplayer/precache-manifest.c12d0f6a00bd330b8d24e0dd6f0a17bd.js",
-    "service-worker.js": "/react-videoplayer/service-worker.js",
-    "static/js/2.8d2cc2bb.chunk.js.LICENSE": "/react-videoplayer/static/js/2.8d2cc2bb.chunk.js.LICENSE"
+    "main.js": "/reactjs-videoplayer/static/js/main.f00c27b1.chunk.js",
+    "main.js.map": "/reactjs-videoplayer/static/js/main.f00c27b1.chunk.js.map",
+    "runtime-main.js": "/reactjs-videoplayer/static/js/runtime-main.4a52ce17.js",
+    "runtime-main.js.map": "/reactjs-videoplayer/static/js/runtime-main.4a52ce17.js.map",
+    "static/js/2.c732ad9d.chunk.js": "/reactjs-videoplayer/static/js/2.c732ad9d.chunk.js",
+    "static/js/2.c732ad9d.chunk.js.map": "/reactjs-videoplayer/static/js/2.c732ad9d.chunk.js.map",
+    "index.html": "/reactjs-videoplayer/index.html",
+    "precache-manifest.de047a60e954a7c98ef12909d9a72a5b.js": "/reactjs-videoplayer/precache-manifest.de047a60e954a7c98ef12909d9a72a5b.js",
+    "service-worker.js": "/reactjs-videoplayer/service-worker.js",
+    "static/js/2.c732ad9d.chunk.js.LICENSE": "/reactjs-videoplayer/static/js/2.c732ad9d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7657c4f.js",
-    "static/js/2.8d2cc2bb.chunk.js",
-    "static/js/main.c4668bfa.chunk.js"
+    "static/js/runtime-main.4a52ce17.js",
+    "static/js/2.c732ad9d.chunk.js",
+    "static/js/main.f00c27b1.chunk.js"
   ]
 }
